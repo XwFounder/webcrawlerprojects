@@ -358,7 +358,7 @@ opt.binary_location = r"C:\Program Files (x86)\Google\Chrome\Application\chrome.
 
 # 3、案例：j东搜索
 代码模拟人的行为思路包含
-1、打卡j东网址
+1、打开j东网址
 2、获取j东搜索框的xpath，输入内容，点击click()
 3、查询列表
 4、获取商标或者商品的标题内容
@@ -424,7 +424,7 @@ driver.close()
 
 # 4.案例：x麦网
 思路
-1、打卡大麦网
+1、打开大麦网
 2、搜索框+输入
 3、点击搜索
 4、查询列表
